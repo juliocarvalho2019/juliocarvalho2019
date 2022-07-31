@@ -1,21 +1,14 @@
 ### Hi there 👋
 Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *Desenvolvedor Full Stack* 🖥️ . </br>
-<!-- https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif -->
-<!-- https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 **Full-Stack**
-- 📖 Experiência (+ 2 anos ) em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;
-- 📖 Experiência (1 ano) Apps mobile Android (Java) e iOS (Objective-C);
-- 📖 Experiência (1 ano) App mobile hibrido utilizando o framework Xamarin (C#);
-- 📖 Organização de códigos fonte utilizando Github;
-- 📖 Angular, uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações.
-- 📖  Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql.
-<br />
-<br />
-<br />
-<br />
-<br />
+- 📖 Experiência (+ 2 anos ) em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;</br>
+- 📖 Experiência (1 ano) Apps mobile Android (Java) e iOS (Objective-C);</br>
+- 📖 Experiência (1 ano) App mobile hibrido utilizando o framework Xamarin (C#);</br>
+- 📖 Organização de códigos fonte utilizando Github;</br>
+- 📖 Angular, uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações.</br>
+- 📖  Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql.</br>
 <br />
 <br />
 <p>Linguagens e Ferramentas</p>
