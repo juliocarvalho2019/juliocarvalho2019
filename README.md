@@ -11,8 +11,10 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 - 📖 Organização de códigos fonte utilizando Github;
 - 📖 Angular, uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações.
 - 📖  Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql.
-
-
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
