@@ -38,9 +38,10 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <div style="display: inline_block"><br> 
 </div>
   
-<p align="center">
-  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocarvalho2019#version3" alt=" Streak stats of IvanRafael-Dev" />
-</p>
+<div align="center">
+  <a href="https://github.com/juliocarvalho2019">
+  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocarvalho2019#version3" alt=" Streak stats of juliocarvalho2019" />
+</div>
   
 <p>Contatos</p>
 <div> 
