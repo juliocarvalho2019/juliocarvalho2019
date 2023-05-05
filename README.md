@@ -14,6 +14,9 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <br />
 <p>Linguagens e Ferramentas</p>
 <p align="center">
+  
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+ <img src="https://img.shields.io/badge/KOTLIN%20-%82F7DF25.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;         
 <img src="https://img.shields.io/badge/KOTLIN%20-%82F7DF25.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JAVA%20-%94F7DF76.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JavaScript%20-%64F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
