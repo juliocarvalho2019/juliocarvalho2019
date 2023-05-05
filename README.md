@@ -21,3 +21,4 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <img src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?&style=for-the-badge&color=F7DF1E" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
