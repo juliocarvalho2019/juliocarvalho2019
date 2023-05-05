@@ -36,15 +36,10 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&count_private=true&show_icons=true&theme=radical&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br> 
-</div>
-  
-<div align="center">
-  <a href="https://github.com/juliocarvalho2019">
-  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?username=juliocarvalho2019#version3" alt=" Streak stats of juliocarvalho2019" />
-</div>
-  
+</div>  
+
 <p>Contatos</p>
-<div> 
+<div>
   <a href = "mailto:juliocarvalhocbq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-carvalho-0180285a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://bitbucket.org/juliocarvalho1928/"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
