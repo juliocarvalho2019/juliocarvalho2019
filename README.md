@@ -12,11 +12,12 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 - 📖 Conhecimento extra-curricular em Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache Kafka.</br>
 <br />
 <br />
-<p>Linguagens e Ferramentas</p>
+<p>Linguagens, Ferramentas e Tecnologia</p>
 <p align="center">
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
           
           
   
