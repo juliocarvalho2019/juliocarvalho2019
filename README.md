@@ -29,8 +29,9 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 <br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&show_icons=true&layout=compact&card_width=443)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&show_icons=true&layout=compact&card_width=443)]        (https://github.com/anuraghazra/github-readme-stats)
+</div>
 <br />
 <br />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocarvalho2019&show_icons=true&theme=shades-of-purple&bg_color=white&title_color=3E6473&text_color=A98DD5)
