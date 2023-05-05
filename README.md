@@ -38,6 +38,10 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <div style="display: inline_block"><br> 
 </div>
   
+<p align="center">
+  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocarvalho2019#version3" alt=" Streak stats of IvanRafael-Dev" />
+</p>
+  
 <p>Contatos</p>
 <div> 
   <a href = "mailto:juliocarvalhocbq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -47,17 +51,9 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=443)]
+ 
 
-  
-  (https://github.com/anuraghazra/github-readme-stats)
-<br />
-<br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrafael-dev&show_icons=true&theme=shades-of-purple&bg_color=white&title_color=3E6473&text_color=A98DD5)
-</br>
 
-<p align="center">
-  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanrafael-dev#version3" alt=" Streak stats of IvanRafael-Dev" />
-</p>
+
 
 
