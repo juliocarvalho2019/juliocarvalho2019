@@ -57,7 +57,7 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
   <a href="https://www.linkedin.com/in/julio-carvalho-0180285a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
           
           
-![Snake animation](https://github.com/juliocarvalho2019/juliocarvalho2019/blob/output/github-contribution-grid-snake.svg)
+
 
  
 
