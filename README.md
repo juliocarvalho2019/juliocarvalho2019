@@ -29,22 +29,15 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </p>
 <br />
-<div align="center">
-  <a href="https://github.com/juliocarvalho2019">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=juliocarvalho2019&show_icons=true?username=juliocarvalho2019&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&count_private=true?username=juliocarvalho2019&show_icons=true&theme=radical?username=juliocarvalho2019&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br> 
-</div>
-  
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&show_icons=true&layout=compact&card_width=443)]        (https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=443)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocarvalho2019&show_icons=true&theme=shades-of-purple&bg_color=white&title_color=3E6473&text_color=A98DD5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanrafael-dev&show_icons=true&theme=shades-of-purple&bg_color=white&title_color=3E6473&text_color=A98DD5)
 </br>
 
 <p align="center">
-  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=juliocarvalho2019#version3" alt=" Streak stats of IvanRafael-Dev" />
+  <img align="left" width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanrafael-dev#version3" alt=" Streak stats of IvanRafael-Dev" />
 </p>
+
 
