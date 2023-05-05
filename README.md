@@ -33,7 +33,7 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 <div align="center">
   <a href="https://github.com/juliocarvalho2019">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=juliocarvalho2019&show_icons=true?username=juliocarvalho2019&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&count_private=true?username=juliocarvalho2019&show_icons=true&theme=radical?username=juliocarvalho2019&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&count_private=true&show_icons=true&theme=radical&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br> 
 </div>
@@ -48,7 +48,7 @@ Olá, meu nome é **Júlio César Carvalho**, sou de Santa Rita do Sapucaí, *De
 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrafael-dev&show_icons=true&layout=compact&card_width=443)]
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocarvalho2019&count_private=true?&show_icons=true&theme=radical?username=juliocarvalho2019&layout=compact&langs_count=7&theme=dracula"/>
+
   
   (https://github.com/anuraghazra/github-readme-stats)
 <br />
