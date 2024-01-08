@@ -1,5 +1,5 @@
 
-Olá, meu nome é **Júlio César Carvalho**, sou de Cambuquira, mais resido em Santa Rita do Sapucaí, *Desenvolvedor Full Stack* 🖥️ . </br>
+Olá, meu nome é **Júlio César Carvalho**, sou de Cambuquira mas resido em Santa Rita do Sapucaí, *Desenvolvedor Full Stack* 🖥️ . </br>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 **Full-Stack**
