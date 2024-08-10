@@ -4,14 +4,14 @@ I work as a full-stack software developer, with strong experience in Java. I cur
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
-**Full-Stack**
-- 📖 Experiência (+ 2 anos ) em desenvolvimento de Software desktop em Java (Swing/JavaFX) e PostgreSQL;</br>
-- 📖 Experiência (+ 2 ano) Apps mobile Android (Java);</br>
-- 📖 Experiência (+ 1 ano) Apps mobile iOS (Objective-C);</br>
-- 📖 Experiência (+ 1 ano) App mobile hibrido utilizando o framework Xamarin (C#);</br>
-- 📖 Conhecimento extra-curricular em Angular, uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript.</br>
-- 📖 Conhecimento extra-curricular em Kotlin.</br>
-- 📖 Conhecimento extra-curricular em Spring Boot, Spring Security, Spring Data JPA, Tokens JWT,Banco de dados H2, Banco de dados MySql, Hibernate, HTML, CSS, Postman, JUnit 5 e Mockito, Apache Kafka.</br>
+
+- 📖 Experience (+ 2 years) in desktop software development in Java (Swing/JavaFX) and PostgreSQL;</br>
+- 📖 Experience (+ 2 years) Android mobile apps (Java);</br>
+- 📖 Experience (+ 1 year) iOS mobile apps (Objective-C);</br>
+- 📖 Experience (+ 1 year) Hybrid mobile app using the Xamarin framework (C#);</br>
+- 📖 Extra-curricular knowledge in Angular, an open source and front-end web application platform based on TypeScript;</br>
+- 📖 Extra-curricular knowledge in Kotlin;</br>
+- 📖 Extra-curricular knowledge in Spring Boot, Spring Security, Spring Data JPA, JWT Tokens, H2 Database, MySql Database, Hibernate, HTML, CSS, Postman, JUnit 5 and Mockito, Apache Kafka.</br>
 <br />
 <br />
 <p>Linguagens, Ferramentas e Tecnologia</p>
