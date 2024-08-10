@@ -11,14 +11,10 @@ I work as a full-stack software developer, with strong experience in Java. I cur
 - 📖 Extra-curricular knowledge in Spring Boot, Spring Security, Spring Data JPA, JWT Tokens, H2 Database, MySql Database, Hibernate, HTML, CSS, Postman, JUnit 5 and Mockito, Apache Kafka.</br>
 <br />
 <br />
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
-<br />
-<br />
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=100% />
 <br />
 <p>Languages, Tools and Technologies</p>
 <p align="center">
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>        
