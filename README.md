@@ -13,7 +13,8 @@ I work as a full-stack software developer, with strong experience in Java. I cur
 <br />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
-
+<br />
+<br />
 <p>Languages, Tools and Technologies</p>
 <p align="center">
 
