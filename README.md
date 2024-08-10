@@ -11,7 +11,7 @@ I work as a full-stack software developer, with strong experience in Java. I cur
 - 📖 Extra-curricular knowledge in Spring Boot, Spring Security, Spring Data JPA, JWT Tokens, H2 Database, MySql Database, Hibernate, HTML, CSS, Postman, JUnit 5 and Mockito, Apache Kafka.</br>
 <br />
 <br />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=100% />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
 
 <p>Languages, Tools and Technologies</p>
