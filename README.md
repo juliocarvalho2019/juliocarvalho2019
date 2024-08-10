@@ -14,7 +14,7 @@ I work as a full-stack software developer, with strong experience in Java. I cur
 - 📖 Extra-curricular knowledge in Spring Boot, Spring Security, Spring Data JPA, JWT Tokens, H2 Database, MySql Database, Hibernate, HTML, CSS, Postman, JUnit 5 and Mockito, Apache Kafka.</br>
 <br />
 <br />
-<p>Linguagens, Ferramentas e Tecnologia</p>
+<p>Languages, Tools and Technologies</p>
 <p align="center">
 
 
