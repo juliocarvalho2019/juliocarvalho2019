@@ -1,5 +1,6 @@
 
  Hello, Welcome to my profile! 🖥️ . </br>
+I work as a full-stack software developer, with strong experience in Java. I currently work as an Android and desktop developer.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
