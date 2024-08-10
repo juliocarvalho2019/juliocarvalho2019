@@ -2,7 +2,7 @@
  Hello, Welcome to my profile! 🖥️ . </br>
 I work as a full-stack software developer, with strong experience in Java. I currently work as an Android and desktop developer.
 <br />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=100% />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=25% />
 <br />
 - 📖 Experience (+ 2 years) in desktop software development in Java (Swing/JavaFX) and PostgreSQL;</br>
 - 📖 Experience (+ 2 years) Android mobile apps (Java);</br>
