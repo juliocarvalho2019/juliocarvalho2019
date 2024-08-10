@@ -2,7 +2,7 @@
  Hello, Welcome to my profile! 🖥️ . </br>
 I work as a full-stack software developer, with strong experience in Java. I currently work as an Android and desktop developer.
 <br />
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=25% />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=15% />
 <br />
 - 📖 Experience (+ 2 years) in desktop software development in Java (Swing/JavaFX) and PostgreSQL;</br>
 - 📖 Experience (+ 2 years) Android mobile apps (Java);</br>
@@ -11,7 +11,6 @@ I work as a full-stack software developer, with strong experience in Java. I cur
 - 📖 Extra-curricular knowledge in Angular, an open source and front-end web application platform based on TypeScript;</br>
 - 📖 Extra-curricular knowledge in Kotlin;</br>
 - 📖 Extra-curricular knowledge in Spring Boot, Spring Security, Spring Data JPA, JWT Tokens, H2 Database, MySql Database, Hibernate, HTML, CSS, Postman, JUnit 5 and Mockito, Apache Kafka.</br>
-<br />
 <br />
 <p>Languages, Tools and Technologies</p>
 <p align="center">
