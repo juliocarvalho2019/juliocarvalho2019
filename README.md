@@ -1,5 +1,5 @@
 
- Hello, Welcome to my profile!🖥️ . </br>
+ Hello, Welcome to my profile! 🖥️ . </br>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/trepichio/trepichio/master/assets/code.gif" width=50% />
 <br />
